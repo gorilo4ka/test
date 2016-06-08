@@ -8,6 +8,7 @@ namespace Task1
 {
     class Program
     {
+        //lil
         static void test(int x = 7, int y = -2)
         {
             Console.WriteLine("x = " + x);
